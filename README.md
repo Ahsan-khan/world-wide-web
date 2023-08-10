@@ -1,24 +1,34 @@
 # Comp 3340 Final Project 
- Jamie Groeneweg 110066070
- Peter Zoura 110092841
- Ahsan Khan 104100196
 
-## Jacobs Performance E-commerce store 
-resvision 3.0
+**Team Members:**
+- Jamie Groeneweg (110066070)
+- Peter Zoura (110092841)
+- Ahsan Khan (104100196)
 
--Download and install XAMPP https://www.apachefriends.org/
--Install using defualts.
--Open the XAMPP control panel, start Apache and MYSQL databases
--Click on admin, click onphpMYAdmin
--Click new to setup new database
--Set name as groenewj_cart
--Click create
--Click import, select sql\groenewj_cart.sql from this folder
--Click import using defaults
--Data base should now be up and running 
+## Jacob's Performance E-commerce Store - Version 3.0
 
--Copy the entire contents of this file into the xampp directory C:\xampp\htdocs\finalproject
+### **Setup and Installation:**
+1. **XAMPP Installation:** Download and install XAMPP from [Apachefriends](https://www.apachefriends.org/). Proceed with the default settings.
+   
+2. **Server Initialization:**
+   - Launch the XAMPP control panel.
+   - Start both Apache and MySQL services.
 
--Navigte to http://localhost/finalproject/php/index.php to go to the home page
+3. **Database Setup:**
+   - Click on 'Admin' next to MySQL, which will redirect you to phpMyAdmin.
+   - Create a new database:
+     - Click on 'New'.
+     - Name it `groenewj_cart` and hit 'Create'.
+   - Import the database structure:
+     - Click on 'Import'.
+     - Select `sql\groenewj_cart.sql` from this repository.
+     - Proceed with the default import settings. The database should now be initialized and operational.
 
--Future startups make sure both databases are running from within the XAMPP control panel
+4. **Application Setup:**
+   - Copy the entire contents of this repository to the following directory: `C:\xampp\htdocs\finalproject`
+
+### **Accessing the Application:**
+- Open a web browser and navigate to [http://localhost/finalproject/php/index.php](http://localhost/finalproject/php/index.php) to access the home page.
+
+### **Note for Future Use:**
+Ensure both Apache and MySQL services are running in the XAMPP control panel before accessing the application.
