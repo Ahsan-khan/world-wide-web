@@ -1,9 +1,9 @@
-## Comp 3340 Final Project 
-# Jamie Groeneweg 110066070
-# Peter Zoura 110092841
-# Ahsan Khan 104100196
+# Comp 3340 Final Project 
+ Jamie Groeneweg 110066070
+ Peter Zoura 110092841
+ Ahsan Khan 104100196
 
-# Jacobs Performance E-commerce store 
+## Jacobs Performance E-commerce store 
 resvision 3.0
 
 -Download and install XAMPP https://www.apachefriends.org/
